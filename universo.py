@@ -1,0 +1,2 @@
+class unidimensional:
+  pass
